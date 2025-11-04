@@ -20,23 +20,29 @@
 
 ### 🛠️ 我的技能樹 (Tech Stack)
 
+#### 語言 & 平台 (Languages & Platforms)
 <p align="left">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+</p>
+
+#### 知識 & 工具 (Knowledge & Tools)
+<p align="left">
+  <img alt="Data Structures" src="https://img.shields.io/badge/資料結構-Data%20Structures-blue?style=for-the-badge">
+  <img alt="Software Engineering" src="https://img.shields.io/badge/軟體工程概論-Software%20Engineering-purple?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
 
 ### 🌱 我的學習進度 (Learning Checklist)
 
-這學期我想完成的目標 (這是一個可以勾選的 Task List)：
+這學期我想完成的目標：
 
 - [x] 掌握 Array, Stack, Queue
 - [x] 搞懂 Hashing 和 Collision
 - [ ] 完成 Tree 和 Graph 的所有範例
-- [ ] 學習 Git branch (分支) 的使用
 
 ---
 
@@ -61,4 +67,4 @@
 ### 📫 如何聯絡我 (Contact Me)
 
 > [!TIP]
-> 如果你對我的筆記有任何問題，歡迎隨時在專案中開 `Issue` 讓我知道！
+> Gmail:99161tina@gmail.com
