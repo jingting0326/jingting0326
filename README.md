@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </p>
 
-我是 `jingting0326`，一名正在學習程式設計與資料結構的大學生。歡迎來到我的 GitHub！
+我是 `jingting0326`，一名大學生。歡迎來到我的 GitHub！
 
 ---
 
